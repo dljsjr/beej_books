@@ -1,0 +1,24 @@
+[submodule "bgc"]
+	path = bgc
+	url = git@github.com:beejjorgensen/bgc.git
+    shallow = true
+[submodule "bgclr"]
+	path = bgclr
+	url = git@github.com:beejjorgensen/bgclr.git
+    shallow = true
+[submodule "bgnet"]
+	path = bgnet
+	url = git@github.com:beejjorgensen/bgnet.git
+    shallow = true
+[submodule "bgnet0"]
+	path = bgnet0
+	url = git@github.com:beejjorgensen/bgnet0.git
+    shallow = true
+[submodule "bgpython"]
+	path = bgpython
+	url = git@github.com:beejjorgensen/bgpython.git
+    shallow = true
+[submodule "bgipc"]
+	path = bgipc
+	url = git@github.com:beejjorgensen/bgipc.git
+    shallow = true
